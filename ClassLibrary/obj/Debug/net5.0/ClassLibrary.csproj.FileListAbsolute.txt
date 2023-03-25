@@ -1,0 +1,12 @@
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Assignment\prathamsharma\Assignment-2\ConsoleApp\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

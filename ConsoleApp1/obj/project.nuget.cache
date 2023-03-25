@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MXmRRO+8QullpaH3F4ZYYBtxhaN4R1SRxs/ocj06rqX0sACc1aTXyfb75i/jSgOpfddIQhohLy0VkRod4zw/1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Assignment\\prathamsharma\\Assignment-2\\ConsoleApp\\ConsoleApp1\\SimpleCal-ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prathamsharma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
